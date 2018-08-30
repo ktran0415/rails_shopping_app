@@ -5,6 +5,7 @@ class CreateStores < ActiveRecord::Migration[5.2]
       t.string :address
       t.string :phone
       t.string :email
+      
 
       t.timestamps
     end

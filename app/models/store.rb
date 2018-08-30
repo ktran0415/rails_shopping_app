@@ -2,7 +2,7 @@ class Store < ApplicationRecord
   # validations
 
   # associations 
-  has_many :list
+  has_many :lists
 
   # callbacks
 

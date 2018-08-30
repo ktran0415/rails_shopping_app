@@ -2,8 +2,8 @@
 
 one:
   name: MyString
-  Store: one
+  price: MyString
 
 two:
   name: MyString
-  Store: two
+  price: MyString
