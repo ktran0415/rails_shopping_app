@@ -3,7 +3,9 @@
 one:
   name: MyString
   price: MyString
+  list: one
 
 two:
   name: MyString
   price: MyString
+  list: two
